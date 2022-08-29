@@ -1,6 +1,7 @@
 # Sentence_analyser
 Program analyses sentence depending on word list you provide where will be specified word with their score
 
+
 Format for word list as csv file:
 1. word,score
 2. disaster,-20
